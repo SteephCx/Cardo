@@ -1,0 +1,202 @@
+[
+    {
+        "descripcion": "Una playa paradisíaca.",
+        "puntaje": 3
+    },
+    {
+        "descripcion": "Una montaña nevada.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Un bosque encantado.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Una ciudad futurista.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un castillo medieval.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Un desierto interminable.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Un jardín japonés.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Una catedral gótica.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Una casa embrujada.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Un parque de atracciones.",
+        "puntaje": 3
+    },
+    {
+        "descripcion": "Una isla desierta.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un pueblo pintoresco.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un templo budista.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Un museo de arte.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un rascacielos en una metrópoli.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un zoológico lleno de animales.",
+        "puntaje": 3
+    },
+    {
+        "descripcion": "Un parque nacional.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Una cueva subterránea.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Un puente colgante.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un campo de flores.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Un mercado callejero.",
+        "puntaje": 3
+    },
+    {
+        "descripcion": "Una granja en el campo.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un puerto pesquero.",
+        "puntaje": 3
+    },
+    {
+        "descripcion": "Un hotel de lujo.",
+        "puntaje": 3
+    },
+    {
+        "descripcion": "Un estadio de fútbol.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Una estación de tren.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un bosque tropical.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un glaciar en el Ártico.",
+        "puntaje": 3
+    },
+    {
+        "descripcion": "Un volcán en erupción.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Un río serpenteante.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Una playa rocosa.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un faro solitario.",
+        "puntaje": 3
+    },
+    {
+        "descripcion": "Un campo de batalla.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un cine antiguo.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Una librería acogedora.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un teatro de ópera.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un laboratorio científico.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un circo itinerante.",
+        "puntaje": 3
+    },
+    {
+        "descripcion": "Un observatorio astronómico.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Un hospital moderno.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Un aeropuerto internacional.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un casino de Las Vegas.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Un parque temático.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un estadio olímpico.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un spa en la montaña.",
+        "puntaje": 3
+    },
+    {
+        "descripcion": "Una plaza histórica.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un café parisino.",
+        "puntaje": 1
+    },
+    {
+        "descripcion": "Un restaurante italiano.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Un centro comercial.",
+        "puntaje": 2
+    },
+    {
+        "descripcion": "Un acuario gigante.",
+        "puntaje": 1
+    }
+]
